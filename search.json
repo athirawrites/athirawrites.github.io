@@ -1,0 +1,31 @@
+---
+layout: null
+permalink: /search.json
+---
+
+[
+  {% assign comma = "" %}
+  {% for p in site.pages %}
+    {% if p.title and p.url and p.search != false %}
+      {{ comma }}{
+        "title": {{ p.title | jsonify }},
+        "url": {{ p.url | relative_url | jsonify }},
+        "type": "page",
+        "content": {{ p.content | strip_html | normalize_whitespace | jsonify }}
+      }
+      {% assign comma = "," %}
+    {% endif %}
+  {% endfor %}
+
+  {% for b in site.books %}
+    ,{
+      "title": {{ b.title | jsonify }},
+      "url": {{ b.url | relative_url | jsonify }},
+      "type": "book",
+      "author": {{ b.author | default: "" | jsonify }},
+      "disability": {{ b.disability | default: "" | jsonify }},
+      "tropes": {{ b.tropes | default: "" | jsonify }},
+      "content": {{ b.content | strip_html | normalize_whitespace | jsonify }}
+    }
+  {% endfor %}
+]
