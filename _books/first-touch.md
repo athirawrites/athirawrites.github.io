@@ -2,7 +2,7 @@
 title: "First Touch"
 slug: first-touch
 author: "Athira Rhina"
-date: 2014-08-
+date: 2014-09-08
 cover_image: /assets/images/first-touch.jpg
 disability: "Wheelchair user (Spina Bifida)"
 tropes:
