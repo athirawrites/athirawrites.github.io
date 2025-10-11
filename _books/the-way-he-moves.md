@@ -2,7 +2,7 @@
 title: "The Way He Moves"
 slug: the-way-he-moves
 author: "Athira Rhina"
-date: 2014-09-08
+date: 2025-10-20
 cover_image: /assets/images/the-way-he-moves-2025-kindle-format.jpg
 disability: "Wheelchair user (Cerebral Palsy)"
 tropes:
@@ -10,7 +10,7 @@ tags:
 retailer_links:
   - label: "Amazon"
     url: "https://www.amazon.com/dp/B0FVM5TXX1"
-rating: 3.6
+rating: 0
 layout: single
 ---
 
