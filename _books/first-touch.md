@@ -3,13 +3,13 @@ title: "First Touch"
 slug: first-touch
 author: "Athira Rhina"
 date: 2014-09-08
-cover_image: /assets/images/first-touch.jpg
+cover_image: /assets/images/first-touch-2025-kindle-format.jpg
 disability: "Wheelchair user (Spina Bifida)"
 tropes:
 tags:
 retailer_links:
   - label: "Amazon"
-    url: "https://amazon.com/"
+    url: "https://www.amazon.com/dp/B0FVM5TXX1"
 rating: 3.6
 layout: single
 ---
