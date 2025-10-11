@@ -9,8 +9,8 @@ tropes:
 tags:
 retailer_links:
   - label: "Amazon"
-    url: "https://www.amazon.com/dp/B0FVM5TXX1"
-rating: 3.6
+    url: "https://www.amazon.com/First-Touch-Devotee-Athira-Rhina-ebook/dp/B00NF2UW1C"
+rating: 4.3
 layout: single
 ---
 
