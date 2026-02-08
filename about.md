@@ -11,3 +11,5 @@ For disclosure, I am a female devotee of disabled men - and I am disabled myself
 Now that I have shared this with you, if you are not comfortable with disabled men being objectified in erotica, then these stories might not be for you.
 
 All characters in my stories are over 18, have agency, and give consent; there is passion and curiosity, but pity is not included.
+
+Contact me at athirarhina@gmail.com
