@@ -14,7 +14,12 @@ rating: 0
 layout: single
 ---
 
-
+Alec and I made an agreement.
+I would fly to London, take over the night shift while one of his regular carers was away, and spend my days sightseeing and meeting friends.
+But there was another part of the agreement.
+The part about sex.
+Alec was funny, handsome, twelve years older than me, and he had spinal muscular atrophy. He needed help with almost everything, including the one thing neither of us could stop thinking about.
+By the time I arrived in London, I was desperate to get my hands on him.
 
 {% if page.retailer_links %}
 **Buy it:**  
